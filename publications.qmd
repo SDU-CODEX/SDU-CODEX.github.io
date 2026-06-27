@@ -1,0 +1,43 @@
+---
+title: "论文成果"
+---
+
+## 预印本
+
+1. **论文题目示例：Extremal Problems in Discrete Structures**  
+   Professor Name, A 同学。  
+   arXiv: xxxx.xxxxx, 2026。  
+   [arXiv](https://arxiv.org/) · [PDF](#) · [BibTeX](#)
+
+## 2026
+
+1. **论文题目示例：Combinatorial Methods in Information Science**  
+   Professor Name, Coauthor Name。  
+   *Journal Name*, 2026。  
+   [DOI](#) · [arXiv](#) · [PDF](#)
+
+## 2025
+
+1. **论文题目示例：Extremal Hypergraph Theory and Applications**  
+   Professor Name, B 同学。  
+   *Journal Name*, 2025。  
+   [DOI](#) · [arXiv](#)
+
+## 代表性讲义
+
+- **极值组合导论**  
+  Professor Name，2026。[PDF](#)
+
+- **图论与信息科学中的组合方法**  
+  Professor Name，2025。[PDF](#)
+
+## 说明
+
+建议论文列表采用如下格式：
+
+```markdown
+1. **论文标题**  
+   作者 A，作者 B。  
+   *期刊名称*，年份。  
+   [DOI](链接) · [arXiv](链接) · [PDF](链接)
+```

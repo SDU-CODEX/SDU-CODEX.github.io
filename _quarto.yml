@@ -1,0 +1,34 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "SDU-CODEX"
+  site-url: "https://SDU-CODEX.github.io/"
+  navbar:
+    background: light
+    left:
+      - href: index.qmd
+        text: 首页
+      - href: people.qmd
+        text: 团队成员
+      - href: publications.qmd
+        text: 论文成果
+      - href: seminars.qmd
+        text: 讨论班
+      - href: news.qmd
+        text: 新闻动态
+      - href: openings.qmd
+        text: 招生招聘
+      - href: resources.qmd
+        text: 学术资源
+  page-footer:
+    center: "© 组合数学与信息交叉科学研究团队. 使用 Quarto 构建。"
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: false
+    smooth-scroll: true
+    lang: zh

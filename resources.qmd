@@ -1,0 +1,27 @@
+---
+title: "学术资源"
+---
+
+## 课程讲义
+
+- **极值组合导论** — [PDF](#)
+- **图论专题** — [PDF](#)
+- **离散结构与信息科学** — [PDF](#)
+
+## 推荐教材与参考书
+
+- Noga Alon and Joel H. Spencer, *The Probabilistic Method*
+- Béla Bollobás, *Modern Graph Theory*
+- Jukna, *Extremal Combinatorics*
+- van Lint and Wilson, *A Course in Combinatorics*
+
+## 常用学术链接
+
+- [arXiv](https://arxiv.org/)
+- [MathSciNet](https://mathscinet.ams.org/)
+- [zbMATH Open](https://zbmath.org/)
+- [Google Scholar](https://scholar.google.com/)
+
+## 内部资源
+
+本栏目可用于放置读书班材料、课程资料、团队内部文档链接等。

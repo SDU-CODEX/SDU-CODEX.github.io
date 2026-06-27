@@ -1,0 +1,23 @@
+{
+  "index.qmd": {
+    "index.html": "05be266d"
+  },
+  "news.qmd": {
+    "news.html": "f1e07d7e"
+  },
+  "openings.qmd": {
+    "openings.html": "7542a5b6"
+  },
+  "people.qmd": {
+    "people.html": "f2b40071"
+  },
+  "publications.qmd": {
+    "publications.html": "200bb457"
+  },
+  "resources.qmd": {
+    "resources.html": "88dba30e"
+  },
+  "seminars.qmd": {
+    "seminars.html": "ea8b9e60"
+  }
+}

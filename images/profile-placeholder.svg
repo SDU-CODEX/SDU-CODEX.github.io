@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="300" viewBox="0 0 300 300">
+  <rect width="300" height="300" fill="#eeeeee"/>
+  <circle cx="150" cy="105" r="48" fill="#bbbbbb"/>
+  <path d="M65 260c15-60 55-90 85-90s70 30 85 90" fill="#bbbbbb"/>
+  <text x="150" y="285" text-anchor="middle" font-family="Arial, sans-serif" font-size="18" fill="#777777">照片</text>
+</svg>

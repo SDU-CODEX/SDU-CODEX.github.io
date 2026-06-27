@@ -1,0 +1,68 @@
+---
+title: "团队成员"
+---
+
+## 团队负责人
+
+::: {.person}
+![](images/profile-placeholder.svg){width=130}
+
+### Professor Name
+
+XXX大学数学科学学院 / 数学系 教授
+
+研究方向：组合数学、极值组合、图论、离散结构、信息科学中的组合方法。
+
+邮箱：professor@example.edu  
+个人主页：[Personal Homepage](https://example.com)
+:::
+
+## 在读学生与团队成员
+
+::: {.person-grid}
+
+::: {.person-card}
+![](images/profile-placeholder.svg)
+
+### A 同学
+
+博士研究生  
+研究方向：极值组合、图论  
+邮箱：student-a@example.edu
+:::
+
+::: {.person-card}
+![](images/profile-placeholder.svg)
+
+### B 同学
+
+硕士研究生  
+研究方向：组合设计、编码理论  
+邮箱：student-b@example.edu
+:::
+
+::: {.person-card}
+![](images/profile-placeholder.svg)
+
+### C 同学
+
+博士研究生  
+研究方向：概率组合、随机结构  
+邮箱：student-c@example.edu
+:::
+
+:::
+
+## 访问学生与访问学者
+
+| 姓名 | 访问时间 | 研究方向 |
+|---|---|---|
+| 访问者 A | 2026 春季 | 图论与信息论 |
+| 访问者 B | 2025 秋季 | 极值组合 |
+
+## 已毕业学生 / 校友
+
+| 姓名 | 学位 / 时间 | 当前去向 |
+|---|---|---|
+| 往届学生 A | 博士，2024 | XXX大学博士后 |
+| 往届学生 B | 硕士，2023 | XXX大学博士研究生 |

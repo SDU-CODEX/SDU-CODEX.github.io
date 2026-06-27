@@ -1,0 +1,240 @@
+[
+  {
+    "objectID": "seminars.html",
+    "href": "seminars.html",
+    "title": "讨论班",
+    "section": "",
+    "text": "本讨论班围绕组合数学、离散结构、图论、极值问题、编码理论、信息论及相关交叉方向展开。\n\n时间：通常为周五 15:00–16:30\n地点：数学楼 101 室\n组织者：Professor Name\n联系方式：professor@example.edu"
+  },
+  {
+    "objectID": "seminars.html#组合数学与信息交叉科学讨论班",
+    "href": "seminars.html#组合数学与信息交叉科学讨论班",
+    "title": "讨论班",
+    "section": "",
+    "text": "本讨论班围绕组合数学、离散结构、图论、极值问题、编码理论、信息论及相关交叉方向展开。\n\n时间：通常为周五 15:00–16:30\n地点：数学楼 101 室\n组织者：Professor Name\n联系方式：professor@example.edu"
+  },
+  {
+    "objectID": "seminars.html#本学期安排",
+    "href": "seminars.html#本学期安排",
+    "title": "讨论班",
+    "section": "本学期安排",
+    "text": "本学期安排\n\n\n\n日期\n报告人\n单位\n题目\n摘要\n\n\n\n\n2026-07-10\n报告人姓名\nXXX大学\n报告题目待定\n摘要待更新\n\n\n2026-07-24\n报告人姓名\nXXX大学\n报告题目待定\n摘要待更新"
+  },
+  {
+    "objectID": "seminars.html#往期报告",
+    "href": "seminars.html#往期报告",
+    "title": "讨论班",
+    "section": "往期报告",
+    "text": "往期报告\n\n\n\n日期\n报告人\n单位\n题目\n\n\n\n\n2026-06-12\n报告人姓名\nXXX大学\n往期报告题目\n\n\n2026-05-29\n报告人姓名\nXXX大学\n往期报告题目"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "论文成果",
+    "section": "",
+    "text": "论文题目示例：Extremal Problems in Discrete Structures\nProfessor Name, A 同学。\narXiv: xxxx.xxxxx, 2026。\narXiv · PDF · BibTeX"
+  },
+  {
+    "objectID": "publications.html#预印本",
+    "href": "publications.html#预印本",
+    "title": "论文成果",
+    "section": "",
+    "text": "论文题目示例：Extremal Problems in Discrete Structures\nProfessor Name, A 同学。\narXiv: xxxx.xxxxx, 2026。\narXiv · PDF · BibTeX"
+  },
+  {
+    "objectID": "publications.html#section",
+    "href": "publications.html#section",
+    "title": "论文成果",
+    "section": "2026",
+    "text": "2026\n\n论文题目示例：Combinatorial Methods in Information Science\nProfessor Name, Coauthor Name。\nJournal Name, 2026。\nDOI · arXiv · PDF"
+  },
+  {
+    "objectID": "publications.html#section-1",
+    "href": "publications.html#section-1",
+    "title": "论文成果",
+    "section": "2025",
+    "text": "2025\n\n论文题目示例：Extremal Hypergraph Theory and Applications\nProfessor Name, B 同学。\nJournal Name, 2025。\nDOI · arXiv"
+  },
+  {
+    "objectID": "publications.html#代表性讲义",
+    "href": "publications.html#代表性讲义",
+    "title": "论文成果",
+    "section": "代表性讲义",
+    "text": "代表性讲义\n\n极值组合导论\nProfessor Name，2026。PDF\n图论与信息科学中的组合方法\nProfessor Name，2025。PDF"
+  },
+  {
+    "objectID": "publications.html#说明",
+    "href": "publications.html#说明",
+    "title": "论文成果",
+    "section": "说明",
+    "text": "说明\n建议论文列表采用如下格式：\n1. **论文标题**  \n   作者 A，作者 B。  \n   *期刊名称*，年份。  \n   [DOI](链接) · [arXiv](链接) · [PDF](链接)"
+  },
+  {
+    "objectID": "openings.html",
+    "href": "openings.html",
+    "title": "招生招聘",
+    "section": "",
+    "text": "本团队欢迎对组合数学、离散结构、极值问题、图论、编码理论、信息论及相关交叉方向感兴趣的本科生、硕士生和博士生联系。\n有意加入团队的同学可通过邮件联系 Professor Name。"
+  },
+  {
+    "objectID": "openings.html#招收学生",
+    "href": "openings.html#招收学生",
+    "title": "招生招聘",
+    "section": "",
+    "text": "本团队欢迎对组合数学、离散结构、极值问题、图论、编码理论、信息论及相关交叉方向感兴趣的本科生、硕士生和博士生联系。\n有意加入团队的同学可通过邮件联系 Professor Name。"
+  },
+  {
+    "objectID": "openings.html#希望具备的基础",
+    "href": "openings.html#希望具备的基础",
+    "title": "招生招聘",
+    "section": "希望具备的基础",
+    "text": "希望具备的基础\n申请者最好具备以下部分课程或方向的基础：\n\n组合数学\n图论\n概率论\n代数\n离散数学\n信息论\n理论计算机科学基础"
+  },
+  {
+    "objectID": "openings.html#联系方式",
+    "href": "openings.html#联系方式",
+    "title": "招生招聘",
+    "section": "联系方式",
+    "text": "联系方式\n请将以下材料发送至 professor@example.edu：\n\n个人简历\n成绩单\n简短研究兴趣说明\n已有论文、预印本或课程项目材料，如有\n推荐人信息，如有"
+  },
+  {
+    "objectID": "openings.html#博士后与访问学生",
+    "href": "openings.html#博士后与访问学生",
+    "title": "招生招聘",
+    "section": "博士后与访问学生",
+    "text": "博士后与访问学生\n欢迎组合数学、图论、离散数学、信息论及相关方向的博士后、访问学生和访问学者联系交流。"
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "组合数学与信息交叉科学研究团队",
+    "section": "",
+    "text": "山东大学数学与交叉科学研究中心\n本团队主要围绕组合数学、离散结构、极值结构及其与信息科学的交叉问题开展研究。\n联系我们 招生招聘"
+  },
+  {
+    "objectID": "index.html#团队简介",
+    "href": "index.html#团队简介",
+    "title": "组合数学与信息交叉科学研究团队",
+    "section": "团队简介",
+    "text": "团队简介\n组合数学与信息交叉科学研究团队 致力于研究离散数学中的基础理论问题及其在信息科学中的应用。团队关注组合结构、极值现象、图与超图、概率方法、代数方法，以及这些方向与编码理论、信息论、理论计算机科学等领域的联系。\n我们的目标是推动组合数学与信息科学之间的深度交叉，培养具有扎实数学基础和跨学科视野的青年学者。"
+  },
+  {
+    "objectID": "index.html#研究方向",
+    "href": "index.html#研究方向",
+    "title": "组合数学与信息交叉科学研究团队",
+    "section": "研究方向",
+    "text": "研究方向\n本团队目前关注以下研究方向：\n\n极值组合与概率组合\n图论与超图理论\n离散结构中的代数方法\n组合设计与编码理论\n信息论中的组合方法\n理论计算机科学中的离散数学问题\n随机结构与伪随机性"
+  },
+  {
+    "objectID": "index.html#最新动态",
+    "href": "index.html#最新动态",
+    "title": "组合数学与信息交叉科学研究团队",
+    "section": "最新动态",
+    "text": "最新动态\n\n2026-06-01 — 团队主页上线。\n2026-05-20 — A 同学在 XXX 讨论班作学术报告。\n2026-04-15 — 团队成员论文被 Journal Name 接收。"
+  },
+  {
+    "objectID": "index.html#近期讨论班",
+    "href": "index.html#近期讨论班",
+    "title": "组合数学与信息交叉科学研究团队",
+    "section": "近期讨论班",
+    "text": "近期讨论班\n\n\n\n日期\n报告人\n题目\n地点\n\n\n\n\n2026-07-10\n报告人姓名\n报告题目待定\n数学楼 101\n\n\n2026-07-24\n报告人姓名\n报告题目待定\n数学楼 101\n\n\n\n更多信息见 讨论班 页面。"
+  },
+  {
+    "objectID": "index.html#联系方式",
+    "href": "index.html#联系方式",
+    "title": "组合数学与信息交叉科学研究团队",
+    "section": "联系方式",
+    "text": "联系方式\n负责人：Professor Name\n单位：XXX大学数学科学学院 / 数学系\n邮箱：professor@example.edu\n办公室：数学楼 XXX 室"
+  },
+  {
+    "objectID": "news.html",
+    "href": "news.html",
+    "title": "新闻动态",
+    "section": "",
+    "text": "团队主页正式上线。\n\n\n\nA 同学在 XXX 讨论班作学术报告。\n\n\n\n团队成员论文被 Journal Name 接收。"
+  },
+  {
+    "objectID": "news.html#section",
+    "href": "news.html#section",
+    "title": "新闻动态",
+    "section": "",
+    "text": "团队主页正式上线。\n\n\n\nA 同学在 XXX 讨论班作学术报告。\n\n\n\n团队成员论文被 Journal Name 接收。"
+  },
+  {
+    "objectID": "news.html#section-4",
+    "href": "news.html#section-4",
+    "title": "新闻动态",
+    "section": "2025",
+    "text": "2025\n\n2025-12-01\nB 同学加入团队，研究方向为组合设计与编码理论。"
+  },
+  {
+    "objectID": "people.html",
+    "href": "people.html",
+    "title": "团队成员",
+    "section": "",
+    "text": "XXX大学数学科学学院 / 数学系 教授\n研究方向：组合数学、极值组合、图论、离散结构、信息科学中的组合方法。\n邮箱：professor@example.edu\n个人主页：Personal Homepage"
+  },
+  {
+    "objectID": "people.html#团队负责人",
+    "href": "people.html#团队负责人",
+    "title": "团队成员",
+    "section": "",
+    "text": "XXX大学数学科学学院 / 数学系 教授\n研究方向：组合数学、极值组合、图论、离散结构、信息科学中的组合方法。\n邮箱：professor@example.edu\n个人主页：Personal Homepage"
+  },
+  {
+    "objectID": "people.html#在读学生与团队成员",
+    "href": "people.html#在读学生与团队成员",
+    "title": "团队成员",
+    "section": "在读学生与团队成员",
+    "text": "在读学生与团队成员\n\n\n\n\nA 同学\n博士研究生\n研究方向：极值组合、图论\n邮箱：student-a@example.edu\n\n\n\n\n\nB 同学\n硕士研究生\n研究方向：组合设计、编码理论\n邮箱：student-b@example.edu\n\n\n\n\n\nC 同学\n博士研究生\n研究方向：概率组合、随机结构\n邮箱：student-c@example.edu"
+  },
+  {
+    "objectID": "people.html#访问学生与访问学者",
+    "href": "people.html#访问学生与访问学者",
+    "title": "团队成员",
+    "section": "访问学生与访问学者",
+    "text": "访问学生与访问学者\n\n\n\n姓名\n访问时间\n研究方向\n\n\n\n\n访问者 A\n2026 春季\n图论与信息论\n\n\n访问者 B\n2025 秋季\n极值组合"
+  },
+  {
+    "objectID": "people.html#已毕业学生-校友",
+    "href": "people.html#已毕业学生-校友",
+    "title": "团队成员",
+    "section": "已毕业学生 / 校友",
+    "text": "已毕业学生 / 校友\n\n\n\n姓名\n学位 / 时间\n当前去向\n\n\n\n\n往届学生 A\n博士，2024\nXXX大学博士后\n\n\n往届学生 B\n硕士，2023\nXXX大学博士研究生"
+  },
+  {
+    "objectID": "resources.html",
+    "href": "resources.html",
+    "title": "学术资源",
+    "section": "",
+    "text": "极值组合导论 — PDF\n图论专题 — PDF\n离散结构与信息科学 — PDF"
+  },
+  {
+    "objectID": "resources.html#课程讲义",
+    "href": "resources.html#课程讲义",
+    "title": "学术资源",
+    "section": "",
+    "text": "极值组合导论 — PDF\n图论专题 — PDF\n离散结构与信息科学 — PDF"
+  },
+  {
+    "objectID": "resources.html#推荐教材与参考书",
+    "href": "resources.html#推荐教材与参考书",
+    "title": "学术资源",
+    "section": "推荐教材与参考书",
+    "text": "推荐教材与参考书\n\nNoga Alon and Joel H. Spencer, The Probabilistic Method\nBéla Bollobás, Modern Graph Theory\nJukna, Extremal Combinatorics\nvan Lint and Wilson, A Course in Combinatorics"
+  },
+  {
+    "objectID": "resources.html#常用学术链接",
+    "href": "resources.html#常用学术链接",
+    "title": "学术资源",
+    "section": "常用学术链接",
+    "text": "常用学术链接\n\narXiv\nMathSciNet\nzbMATH Open\nGoogle Scholar"
+  },
+  {
+    "objectID": "resources.html#内部资源",
+    "href": "resources.html#内部资源",
+    "title": "学术资源",
+    "section": "内部资源",
+    "text": "内部资源\n本栏目可用于放置读书班材料、课程资料、团队内部文档链接等。"
+  }
+]
