@@ -23,11 +23,11 @@ website:
       - href: resources.qmd
         text: 学术资源
   page-footer:
-    center: "© 山东大学组合数学与信息交叉科学研究团队。"
+    center: "© 山东大学组合数学与信息交叉科学研究团队"
 
 format:
   html:
-    theme: cosmo
+    theme: flatly
     css: styles.css
     toc: false
     smooth-scroll: true
