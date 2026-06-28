@@ -7,7 +7,7 @@
 
 本团队主要围绕组合数学、离散结构、极值结构及其与信息科学的交叉问题开展研究。
 
-[联系我们](mailto:professor@example.edu){.btn .btn-primary}
+[联系我们](#contact){.btn .btn-primary}
 [招生招聘](openings.qmd){.btn .btn-secondary}
 :::
 
@@ -44,7 +44,7 @@
 
 更多信息见 [讨论班](seminars.qmd) 页面。
 
-## 联系方式
+## 联系方式 {#contact}
 
 负责人：上官冲  
 单位：山东大学高等研究院、数学与交叉科学研究中心、非线性期望前沿科学研究中心  
