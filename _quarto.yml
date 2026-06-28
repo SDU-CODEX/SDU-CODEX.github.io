@@ -27,7 +27,7 @@ website:
 
 format:
   html:
-    theme: flatly
+    theme: Default
     css: styles.css
     toc: false
     smooth-scroll: true
