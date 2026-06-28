@@ -23,7 +23,7 @@ website:
       - href: resources.qmd
         text: 学术资源
   page-footer:
-    center: "© 组合数学与信息交叉科学研究团队. 使用 Quarto 构建。"
+    center: "© 山东大学组合数学与信息交叉科学研究团队。"
 
 format:
   html:

@@ -7,13 +7,13 @@ title: "团队成员"
 ::: {.person}
 ![](images/profile-placeholder.svg){width=130}
 
-### Professor Name
+### 上官冲
 
-XXX大学数学科学学院 / 数学系 教授
+山东大学数学与交叉科学研究中心 教授
 
 研究方向：组合数学、极值组合、图论、离散结构、信息科学中的组合方法。
 
-邮箱：professor@example.edu  
+邮箱：theoreming@163.com
 个人主页：[Personal Homepage](https://example.com)
 :::
 
